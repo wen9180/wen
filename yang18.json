@@ -1,30 +1,32 @@
 {
-  "spider": "./jar/Yoursmile.jar;md5;C26A298F52963C1925514BA0B134A5F8$$$./jar/XBPQ.jar",
-
-
+  "spider": "./jar/Yoursmile2.jar$$$./jar/XBPQ.jar",
   "wallpaper": "https://picsum.photos/1080/",
-  "wallpaper": "https://tool.weetai.cn/api",
 
 
 "lives": [
-{"name": "电视┃💢简影💈直播","type": 0,"url": "./lib/ftv.json","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "电视┃整理","type": 0,"url": "./lib/整理.txt","playerType": 1},
-{"name": "电视┃电视家","type": 0,"url": "./lib/电视家32.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "电视┃道长","type": 0,"url": "./lib/道长.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "电视┃莱妮丝","type": 0,"url": "./lib/莱妮丝.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "电视┃整理","type": 0,"url": "./lib/ziyong.txt","playerType": 1},
+{"name": "T4┃live.ipv6","type": 0,"url": "https://catbox.n13.club/jk/live","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "电视┃简影","type": 0,"url": "./lib/ftv.json","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "电视┃电视家","type": 0,"url": "./lib/dsj.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "电视┃道长","type": 0,"url": "./lib/dz.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "电视┃莱妮丝","type": 0,"url": "./lib/lns.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "直播┃武哥","type": 0,"url": "./lib/武哥.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "直播┃四千加","type": 0,"url": "./lib/四千加.m3u","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "直播┃AK47","type": 0,"url": "./lib/AK47.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "直播┃蜂蜜18+","type": 0,"url": "./lib/蜂蜜18.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "直播┃半路捡来的","type": 0,"url": "./lib/半路捡来的.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "直播┃半路捡来的","type": 0,"url": "./lib/bl.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "直播┃tv","type": 0,"url": "./lib/tv.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "直播┃会员频道","type": 0,"url": "./lib/会员频道.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "直播┃会员频道","type": 0,"url": "./lib/siyong.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "直播┃181","type": 0,"url": "./lib/181.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "直播┃182","type": 0,"url": "./lib/182.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "直播┃18禁","type": 0,"url": "./lib/18禁.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "直播┃18","type": 0,"url": "https://d.kstore.space/download/5447/18/18禁.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "直播┃jable","type": 0,"url": "https://dpaste.org/b95Eo/raw","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "直播┃MTV","type": 0,"url": "./lib/MTV.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+{"name": "直播┃MTV","type": 0,"url": "./lib/MTV.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "黄渤1","type": 0,"url": "http://hi.我是你爹.top/yellowbo.php?t=1","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "黄渤2","type": 0,"url": "http://hi.我是你爹.top/yellowbo.php?t=2","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "黄渤3","type": 0,"url": "http://hi.我是你爹.top/yellowbo.php?t=3","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "黄渤4","type": 0,"url": "http://hi.我是你爹.top/yellowbo.php?t=4","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
   "sites": [	
@@ -42,7 +44,7 @@
 {"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","style":{"type":"list"},"ext": {"搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}","数组":"<tr&&</tr>","简介":"Date:</div>&&</","图片":" ","播放二次截取":"panel-footer clearfix&&</div>","播放数组":"<a&&</a >[不包含:Torrent#filecove]","分类": "DHT网络$1","分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"}},
 {"key": "ccc996","name": "国产在线(ccc996)","type": 3,"api": "csp_XBPQ","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "class=\"video-pic loading\"&&</a","图片": "data-original=\"&&\"","链接": "href=\"/detail/&&.html\"","链接前缀": "https://www.vdfvnjef165.icu/df15r/","链接后缀": "-1-1.html","跳转播放": "urlDecode(var player_*url\":\"&&\")","分类url": "https://www.vdfvnjef165.icu/vod/type/id/{cateId}/page/{catePg}.html;;mz","分类": "视频一区$1#视频二区$2#视频三区$3#国产精选$6#欧美大片$7#岛国大片$8#传媒影视$9#色情动漫$10#三级伦理$11#性爱直播$12#明星淫乱$13#SM调教$14#强奸轮奸$15#乱伦性爱$16#约炮探花$20#网曝泄密$21#萝莉少女$22#熟女人妻$23#绿帽淫妻$24#口爆颜射$25#自拍偷拍$26#男同女同$27#制服诱惑$28#AV解说$29"}},
 
-{"key": "福利资源","name": "🔞福利资源","type": 3,"api": "./js/zbzdb.js","ext": "https://bitbucket.org/yim01/yim01/raw/fae9441abfdc3786931d1749334e6c66a89837ee/fljk2.js"}
+{"key": "福利资源","name": "🔞福利资源","type": 3,"api": "./js/zbzdb.js","ext": "https://bitbucket.org/yim01/yim01/raw/fae9441abfdc3786931d1749334e6c66a89837ee/fljk2.js"},
 {"key": "csp_xBPQ_404精品","name": "404精品T","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar","ext": {"站名": "404精品","主页url": "https://404jpz.xyz/","分类": "精品推荐$27#剧情原创$28#探花约啪$51#主播大秀$52#传媒影像$53#情色节目$59#P站精品$61#抖阴短视频$63#网曝门$70#AV解说$76#国产视频$29#网红主播$30#偷拍自拍$31#国产伦理$77#国产精品$75#日韩视频$1#中文字幕$33#名优写真$35#日本伦理$39#名优综艺$40#韩美眉主播$41#骑兵有码$43#无码专区$6#卡通动漫$8#欧美$34","数组": "<div class=\"content\">&&</div>","图片": "src=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","副标题": "title=\"&&\"","分类url": "https://404jpz.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","免嗅": "1"}},
 {"key": "csp_xBPQ_香蕉高清","name": "成人┃香蕉①","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"直接播放": "1","分类": "亚洲AV$2k-yazhou#自拍偷拍$2k-zipaitoupai#超清传媒$2k-chaoqingchuanmei#3D动漫$2k-3Ddongman#欧美AV$2k-oumei#乱伦人妻$2k-luanlunrenqi#丝袜制服$2k-siwazhifu#直播录播$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji","链接前缀": "https://52kkpp.vip","搜索url": "https://52kkpp.vip/cq/vod/search/page/{catePg}/wd/{wd}.html","搜索链接前缀": "https://52kkpp.vip","分类url": "https://52kkpp.vip/cq/{cateId}-{catePg}.html"},"jar": "./jar/h.jar"},
 {"key": "csp_xBPQ_超清②","name": "成人┃香蕉②","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar": "./jar/h.jar"},
@@ -79,13 +81,13 @@
 {"key": "采集H(饮水机)","name": "成人┃撸铁┃桃子","type": 0,"api": "https://www.xrbsp.com/api/xml.php ","searchable": 1,"changeable": 1},
 {"key": "timizy","name": "成人┃甜蜜成人资源 ","type": 1,"api": "https://timizy10.cc/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "msv ","name": "成人┃美少女 ","type": 0,"api": "https://www.msnii.com/api/xml.php ","searchable": 1,"changeable": 1},
-{"key": "采集G(美少女)","name": 成人┃"撸铁┃茄子","type": 0,"api": "https://www.msnii.com/api/xml.php ","searchable": 1,"changeable": 1},
+{"key": "采集G(美少女)","name": "成人┃撸铁┃茄子","type": 0,"api": "https://www.msnii.com/api/xml.php ","searchable": 1,"changeable": 1},
 {"key": "ysj ","name": "成人┃饮水机 ","type": 0,"api": "https://www.xrbsp.com/api/xml.php ","searchable": 1,"changeable": 1},
 {"key": "xne ","name": "成人┃香奶儿 ","type": 0,"api": "https://www.gdlsp.com/api/xml.php ","searchable": 1,"changeable": 1},
 {"key": "采集G(香奶儿)","name": "成人┃撸铁┃樱桃","type": 0,"api": "https://www.gdlsp.com/api/xml.php ","searchable": 1,"changeable": 1},
 {"key": "bp ","name": "成人┃白嫖 ","type": 0,"api": "https://www.kxgav.com/api/xml.php ","searchable": 1,"changeable": 1},
 {"key": "hav ","name": "成人┃黄艾薇 ","type": 0,"api": "https://www.pgxdy.com/api/xml.php ","searchable": 1,"changeable": 1},
-{"key": "apittzy.com","name": 成人┃"撸铁┃芒果","type": 1,"style":{"type":"rect", "ratio":1.485 },"api": "https://apittzy.com/api.php/provide/vod/","searchable": 1},
+{"key": "apittzy.com","name": "成人┃撸铁┃芒果","type": 1,"style":{"type":"rect", "ratio":1.485 },"api": "https://apittzy.com/api.php/provide/vod/","searchable": 1},
 {"key": "hghhh.com","name": "成人┃撸铁┃柠檬","type": 1,"style":{"type":"rect", "ratio":1.485 },"api": "https://hghhh.com/api.php/provide/vod/","searchable": 1},
 {"key": "bttcj.com","name": "成人┃撸铁┃土豆","type": 0,"style":{"type":"rect", "ratio":1.485 },"api": "http://bttcj.com/inc/sapi.php","searchable": 1},
 {"key": "dadiapi.com","name": "成人┃撸铁┃雪梨","type": 0,"style":{"type":"rect", "ratio":1.485 },"api": "http://dadiapi.com/api.php","searchable": 1},
@@ -207,7 +209,7 @@
 {"key":"*速度资源","name":"成人┃速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 {"key":"*KK写真资源","name":"成人┃KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "精工厂","name": "成人┃精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "csp_xpath_xxj","name": "成人┃新香蕉(XP)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://breadmyth.github.io/tv/MeowXP/2024xxj.json"},
+{"key": "csp_xpath_xxj","name": "成人┃新香蕉(XP)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/2024xxj.json"},
 {"key": "91md","name": "成人┃91md","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","tag": "qb,tj,rm","categories": []},
 {"key": "影库资源","name": "成人┃影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag": "qb,tj","categories": []}, 
 {"key": "速播","name": "成人┃速播","type": 1,"api": "https://api.suboapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},

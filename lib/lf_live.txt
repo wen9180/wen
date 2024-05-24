@@ -10,8 +10,7 @@
 ./电台.txt
 #初秋语┃本地
 ./cqy.txt
-#整理┃本地
-./整理.txt
+
 #ziyong┃本地
 ./ziyong.txt
 #潇洒┃本地

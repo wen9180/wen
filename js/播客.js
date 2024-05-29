@@ -46,8 +46,7 @@ var rule = {
 		})
 		setResult(d);
 	`,
-	二级: `js:
-        pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+	二级: `pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 		let purl = input.split('|')[0];
 		let title = input.split('|')[1];
 		let pic = input.split('|')[2];

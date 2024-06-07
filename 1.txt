@@ -549,6 +549,29 @@
             "changeable": 0
         },
         {
+            "key": "csp_Yj1211",
+            "name": "📽️网红┃直播",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+    {
+      "key": "快手直播",
+      "name": "😎快手┃直播",
+      "type": 3,
+      "api": "csp_KsLive",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "timeout": 10
+    },
+        {
             "key": "BLSGod",
             "name": "BLSGod|磁",
             "type": 3,
@@ -1105,15 +1128,6 @@
             "changeable": 1,
             "timeout": 30,
             "ext": "vip.lyyytv.cn"
-        },
-        {
-            "key": "csp_Yj1211",
-            "name": "📽️网红┃直播",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "荐片",

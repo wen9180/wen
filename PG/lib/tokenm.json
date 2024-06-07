@@ -1,7 +1,7 @@
 {
 "use_internal_storage":false,
-"token":"",
-"open_token":"",
+"token":"6f2affa6dddb4a408a5877fc062a8d82",
+"open_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJmOTQyNmQ1Yzg5Zjk0YTA2YmY2MTcxODA0NDliNmQ3NiIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzExMzI4NDAwLCJpYXQiOjE3MDM1NTI0MDAsImp0aSI6IjYzNGRkM2U3MWIyZTQ4MTRiZWRkNzA3MDYwZGI3ZjcxIn0.ihwWL49ANcOGB6jq-1DB7hYF-rqJWrfPZpWVnhirelNt0ajT-7AnrdW7Rp3AAUrb4GBWnoP1ONS6o330YTt9uA",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
 "oauth_client_id":"",
 "oauth_client_secret":"",
@@ -10,15 +10,15 @@
 "thread_limit":32,
 "is_vip":true,
 "vip_thread_limit":10,
-"vod_flags":"4kz|auto",
+"vod_flags":"auto|4kz",
 "quark_thread_limit":32,
 "quark_is_vip":false,
 "quark_vip_thread_limit":32,
-"quark_flags":"4kz|auto",
+"quark_flags":"auto|4kz",
 "uc_thread_limit":0,
 "uc_is_vip":false,
 "uc_vip_thread_limit":0,
-"uc_flags":"4kz|auto",
+"uc_flags":"auto|4kz",
 "thunder_thread_limit":2,
 "thunder_is_vip":false,
 "thunder_vip_thread_limit":2,
@@ -57,6 +57,5 @@
 "wgcf_vless_path":"/?ed=2048",
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
-"wgcf_vless_tls":false,
-"libxl_url":"./libxl_thunder_sdk.so"
+"wgcf_vless_tls":false
 }

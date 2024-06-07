@@ -30,6 +30,267 @@
 
 
   "sites": [
+    {
+      "key": "九九六",
+      "name": "九九六",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/九九六.json"
+    },
+    {
+      "key": "迷迷剧",
+      "name": "迷迷剧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/迷迷剧.json"
+    },
+    {
+      "key": "电影牛",
+      "name": "电影牛",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/电影牛.json"
+    },
+    {
+      "key": "冷曦影视",
+      "name": "冷曦影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/冷曦影视.json"
+    },
+    {
+      "key": "徕米影视",
+      "name": "徕米影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/徕米影视.json"
+    },
+    {
+      "key": "萌猫影视",
+      "name": "萌猫影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/萌猫影视.json"
+    },
+    {
+      "key": "土豪影视",
+      "name": "土豪影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/土豪影视.json"
+    },
+    {
+      "key": "好戏影视",
+      "name": "好戏影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/好戏影视.json"
+    },
+    {
+      "key": "蛋蛋影视",
+      "name": "蛋蛋影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/蛋蛋影视.json"
+    },
+    {
+      "key": "零三影院",
+      "name": "零三影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/零三影院.json"
+    },
+    {
+      "key": "乌鸦影视",
+      "name": "乌鸦影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/乌鸦影视.json"
+    },
+    {
+      "key": "五五影视",
+      "name": "五五影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/五五影视.json"
+    },
+    {
+      "key": "柒月影视",
+      "name": "柒月影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/柒月影视.json"
+    },
+    {
+      "key": "麻衣呀呼",
+      "name": "麻衣呀呼",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/麻衣呀呼.json"
+    },
+    {
+      "key": "苹果影视",
+      "name": "苹果影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/苹果影视.json"
+    },
+    {
+      "key": "威士影视",
+      "name": "威士影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/威士影视.json"
+    },
+    {
+      "key": "七新影视",
+      "name": "七新影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/七新影视.json"
+    },
+    {
+      "key": "子子影视",
+      "name": "子子影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/子子影视.json"
+    },
+    {
+      "key": "锐行加速",
+      "name": "锐行加速",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/锐行加速.json"
+    },
+    {
+      "key": "电影盒子",
+      "name": "电影盒子",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/电影盒子.json"
+    },
+    {
+      "key": "深蓝影视",
+      "name": "深蓝影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/深蓝影视.json"
+    },
+    {
+      "key": "歪片星球",
+      "name": "歪片星球",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/歪片星球.json"
+    },
+    {
+      "key": "蚂蚁影院",
+      "name": "蚂蚁影院",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/蚂蚁影院.json"
+    },
+    {
+      "key": "奇趣影视",
+      "name": "奇趣影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/奇趣影视.json"
+    },
+    {
+      "key": "维奇动漫",
+      "name": "维奇动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/维奇动漫.json"
+    },
+    {
+      "key": "动漫巴士",
+      "name": "动漫巴士",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/动漫巴士.json"
+    },
+
 {"key": "豆瓣","name": "豆瓣","type": 3,"api": "csp_DouDou","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar"},
 {"key": "荐片","name": "荐片┃蜜蜂","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./lib/jianpian.json","jar":"./jar/pg.jar"},
 {"key":"贱贱","name":"荐片┃玩偶","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./api/drpy1.min.js","ext":"./js/jp.js"},
@@ -274,7 +535,7 @@
 {"key":"小林子影视","name":"XBPQ┃小林子影视","type":3,"api":"csp_XBPQ","ext":{"简介":"小林子为您剧情介绍: +more-box\">&&</div>","线路数组":"#ewave-playlist&&</li>","播放数组":"ewave-playlist-sort-content\"&&</ul>","分类url":"https://tv.loufubao.com/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 
 
-{"key": "FirstAid","name": "知识┃急救","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}],
+{"key": "FirstAid","name": "知识┃急救","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}}],
 
 "rules": [
 {"name": "proxy","hosts": ["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},

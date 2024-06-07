@@ -81,6 +81,16 @@
 {"key": "稀饭动漫","name":"JAR┃稀饭┃动漫","type": 3,"api": "csp_Xifan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/wyog.jar"},
 {"key": "csp_AppYsV2","name":"JAR┃影视┃69美剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
 {"key":"csp_Auete","name":"JAR┃影视┃奥特在线","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.aueteys.com/"},
+    {
+      "key": "Auete",
+      "name": "奥特ZL┃秒播",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://haozhansou.com/"
+    },
 {"key": "Kuaikan","name":"JAR┃影视┃快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Vidhub2","name":"JAR┃影视┃维迪","type": 3,"api": "csp_Vidhub2","jar": "./jar/Panda.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "FreeOK","name":"JAR┃影视┃Fre","type": 3,"api": "csp_Freeok","jar": "./jar/Panda.jar","searchable": 1,"quickSearch": 1,"filterable": 1},

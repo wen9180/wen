@@ -1,0 +1,19 @@
+{
+  "urls": [
+    {"name": "xbpq本地","url": "file://TVBoxOSC/yang/xbpq.json"},
+    {"name": "t4本地","url": "file://TVBoxOSC/yang/t4.json"},
+    {"name": "cai本地","url": "file://TVBoxOSC/yang/cai.json"},
+    {"name": "jar本地","url": "file://TVBoxOSC/yang/jar.json"},
+    {"name": "py本地","url": "file://TVBoxOSC/yang/py.json"},
+    {"name": "js本地","url": "file://TVBoxOSC/yang/js.json"},
+
+    {"name": "小虎斑","url": "file://TVBoxOSC/tvbox/tvbox.json"},
+    {"name": "vip","url": "file://TVBoxOSC/vip/svip.json"},
+    {"name": "VOX","url": "file://TVBoxOSC/pro/demo.json"},
+    {"name": "南风","url": "file://TVBoxOSC/南风/api.json"},
+    {"name": "本地更新","url": "file://TVBoxOSC/本地包更新.json"},
+    {"name": "直播","url": "file://TVBoxOSC/直播/api.json"},
+    {"name": "真心本地","url": "file://TVBoxOSC/真心/FongMi.json"},
+    {"name": "PG本地","url": "file://TVBoxOSC/PG/jsm.json"}
+  ]
+}

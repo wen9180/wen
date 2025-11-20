@@ -1,4 +1,4 @@
-{"spider":"./spider.jar",
+{"spider":"./jar/FG.jar",
 "sites":[
 {"key":"直┃直转点┃集合","name":"直┃JS┃直转点┃集合","type":3,"searchable":1,"api":"./js/zbzdb.js","ext":"./live/live集合.json"},
 {"key":"直┃直转点","name":"直┃JS┃直转点在线","type":3,"searchable":1,"api":"./js/直转点.js","ext":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.txt"},

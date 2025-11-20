@@ -86,9 +86,8 @@
 {"key":"采集┃旺旺短剧","name":"采集┃🎎旺旺短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/?ac=list","playerType":1,"searchable":1,"changeable":1},
 {"key":"采集┃淘片资源","name":"采集┃🎬淘片资源","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"playurl":""},
 {"key": "采集┃小红","name": "采集┃🎬小红","type": 1,"api": "https://www.xiaohys.com/api.php/provide/vod","playUrl": "","searchable": 1,"quickSearch": 1},
-{"key":"采集┃CK资源","name":"采集┃🎬CK资源","type":1,"api":"https://www.ckzy1.com/api.php/provide/vod/","searchable":1,"changeable":1,"recordable":0},
 
-
+{"key":"采集┃CK资源","name":"采集┃♌CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"recordable":0},
 {"key":"采集┃越南资源站","name":"采集┃♌越南资源站","type":1,"api":"https://vnzyz.com/api.php/provide/vod","searchable":1,"playUrl":"","changeable":1},
 {"key":"采集┃91视频","name":"采集┃♌91视频","type":1,"api":"https://91av.cyou/api.php/provide/vod/","searchable":1,"playUrl":"","changeable":1},
 {"key":"采集┃CK","name":"采集┃♌CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
